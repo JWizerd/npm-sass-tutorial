@@ -3,8 +3,8 @@
 ## use npm to compile sass and watch for changes using scripts in package.json
 
 ### devDependencies
-node-sass for sass
-nodemon for watch changes
+1. **node-sass** for sass,
+2. **nodemon** for watch changes
 
 ### install script
 ```
