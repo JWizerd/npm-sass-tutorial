@@ -18,3 +18,5 @@ npm install --save-dev node-sass nodemon
   "watch-css": "nodemon -e scss -x \"npm run build-css\""
 }
 ```
+
+tutorial src: https://medium.com/@brianhan/watch-compile-your-sass-with-npm-9ba2b878415b#.a1o1k067b
