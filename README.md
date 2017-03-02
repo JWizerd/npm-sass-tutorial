@@ -11,7 +11,7 @@
 npm install --save-dev node-sass nodemon
 ```
 
-### scripts: paths follow *--include-path will need to be changed*
+### scripts: paths following *--include-path will need to be changed*
 ```
 "scripts": {
   "build-css": "node-sass --include-path scss scss/main.scss public/css/main.css",
